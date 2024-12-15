@@ -1,1 +1,1 @@
-A project on solar system animation
+A project on Trex game
